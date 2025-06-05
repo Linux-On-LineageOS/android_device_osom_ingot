@@ -403,3 +403,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/osom/ingot/ingot-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
